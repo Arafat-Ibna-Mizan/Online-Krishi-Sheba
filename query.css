@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#x{
+    float: left;
+    display: block;
+    overflow: hidden;
+    margin: 0px;
+    padding-left: 10px;
+    padding-right:200px ;
+}
